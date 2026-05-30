@@ -1,7 +1,15 @@
 # AQI-_Forecast
+COMPANY : CODTECH IT SOLUTIONS PVT.LTD
 
+NAME : Mohana Srinivasulu
 
+INTERN ID : CITS1567
 
+DOMAIN : Machine Learning
+
+DURATION : 6 Weeks
+
+MENTOR : Neela Santhosh Kumar
 
 
 
